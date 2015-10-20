@@ -1,5 +1,6 @@
-# Data Science Resources
 ## [R](http://www.r-project.org/)
+
+#### [R](https://github.com/evmo/DataScienceResources/blob/master/R.md) | [Programming Languages](https://github.com/evmo/DataScienceResources/blob/master/ProgLangs.md) | [Statistics](https://github.com/evmo/DataScienceResources/blob/master/Statistics.md) | [Unix/Linux](https://github.com/evmo/DataScienceResources/blob/master/UnixLinux.md)
 
 - [R Bloggers](http://r-bloggers.com/)
 - [Stack Overflow / tagged / R](http://stackoverflow.com/questions/tagged/r)
