@@ -39,6 +39,7 @@
 - [Revolutions](http://blog.revolutionanalytics.com/) (David Smith) |					[roundups](http://blog.revolutionanalytics.com/roundups/)
 - [r4stats](http://r4stats.com/) (Bob Muenchen)
 - [Moshe on Technology](http://technomosh.blogspot.com/)
+- [IronHolds - Adventures in Data](http://ironholds.org/blog/)
 
 ## Tutorials
 

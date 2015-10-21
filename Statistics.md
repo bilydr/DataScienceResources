@@ -5,3 +5,8 @@
 - [Statistics.com](http://www.statistics.com/)
 - [CrossValidated](http://stats.stackexchange.com/)
 - [The Joy of Stats](https://vimeo.com/18477762) - video by Prof. Hans Rosling, a "rollercoaster ride through the wonderful world of statistics"
+- [StatTrek](http://stattrek.com/)
+- [OpenIntro - stats](https://www.openintro.org/stat/?stat_book=os)
+- [SticiGui](http://www.stat.berkeley.edu/~stark/SticiGui/index.htm)
+- [Simply Statistics](http://simplystatistics.org/)
+- [Andrew Gelman's blog](http://andrewgelman.com/)
