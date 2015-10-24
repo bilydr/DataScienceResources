@@ -11,6 +11,7 @@
 
 ### [Python](http://python.org)
 
+- [The Python Tutorial](https://docs.python.org/2/tutorial/) (python.org)
 - [Dive into Python](http://www.diveintopython.net/)
 
 ### Lisps

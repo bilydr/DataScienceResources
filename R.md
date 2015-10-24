@@ -2,6 +2,8 @@
 
 #### [R](https://github.com/evmo/DataScienceResources/blob/master/R.md) | [Programming Languages](https://github.com/evmo/DataScienceResources/blob/master/ProgLangs.md) | [Statistics](https://github.com/evmo/DataScienceResources/blob/master/Statistics.md) | [Unix/Linux](https://github.com/evmo/DataScienceResources/blob/master/UnixLinux.md)
 
+---
+
 - [R Bloggers](http://r-bloggers.com/)
 - [Stack Overflow / tagged / R](http://stackoverflow.com/questions/tagged/r)
 - [Nabble / R](http://r.789695.n4.nabble.com/)
@@ -11,10 +13,8 @@
 
 ## Resources
 
-- [Advanced R Programming](http://adv-r.had.co.nz/) (H.Wickham)
 - [Quick-R](http://www.statmethods.net/index.html)
 - [inside-R](http://www.inside-r.org/)
-- [R style guide](http://adv-r.had.co.nz/Style.html) (H.Wickham)
 - [The R Journal](http://journal.r-project.org/index.html)
 - [R Programming wikibook](http://en.wikibooks.org/wiki/R_Programming)
 - [Rtips](http://pj.freefaculty.org/R/Rtips.html) (Paul E. Johnson)
@@ -23,6 +23,13 @@
 - [R-Seek](http://www.rseek.org/)
 - [Pretty-R](http://www.inside-r.org/pretty-r/tool)
 - [Cookbook for R](http://www.cookbook-r.com/) (Winston Chang)
+
+## Hadley-verse
+
+- [Advanced R Programming](http://adv-r.had.co.nz/)
+- [R Packages](http://r-pkgs.had.co.nz/)
+- [R style guide](http://adv-r.had.co.nz/Style.html)
+- [@hadleywickham](http://twitter.com/hadleywickham)
 
 ## Packages
 

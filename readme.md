@@ -18,7 +18,9 @@
 
 - [Northwestern](http://sps.northwestern.edu/program-areas/Graduate/predictive-analytics/index.php)
 - [Why I left my Data Science Masters Program](https://www.linkedin.com/pulse/why-i-left-my-masters-program-charles-pensig-1) - blog by Charles Pensig
+- [Are you ready to apply to the Zipfian Academy?](https://docs.google.com/document/d/1GI3oVas8yswhqPk_8-VIANHR1uJ6R19HNhl7GiH9vq4/pub)
 
 ### Other
 
 - [list of data science blog](https://github.com/jhwhite/datasceinceblogs)
+- [Kaggle](http://www.kaggle.com/)
