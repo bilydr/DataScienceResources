@@ -10,3 +10,4 @@
 - [SticiGui](http://www.stat.berkeley.edu/~stark/SticiGui/index.htm)
 - [Simply Statistics](http://simplystatistics.org/)
 - [Andrew Gelman's blog](http://andrewgelman.com/)
+- *[Elements of Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/)*

@@ -10,6 +10,8 @@
 - [Hadley Wickham](http://had.co.nz/): [ggplot2](http://ggplot2.org), [reshape](https://github.com/hadley/reshape), [plyr](http://plyr.had.co.nz/), [JSS article on S-A-R](http://www.jstatsoft.org/v40/i01/)
 - [Shiny](http://shiny.rstudio.com/): 
 - [RStudio packages](http://www.rstudio.com/products/rpackages/): [knitr](http://yihui.name/knitr/), [dplyr](https://github.com/hadley/dplyr), [devtools](http://www.rstudio.com/products/rpackages/devtools/)
+- [CRAN Task Views](https://cran.r-project.org/web/views/)
+- [ROpenSci](https://ropensci.org/)
 
 ## Resources
 
@@ -56,3 +58,7 @@
 ## Cool Case Studies
 
 - [A Traceroute Map of the Top 50 websites in R](http://rstudio-pubs-static.s3.amazonaws.com/1039_84b00474341c4687ac1d756f1b012167.html)
+
+## People
+
+- [Duncan Temple Lang](http://anson.ucdavis.edu/~duncan/)

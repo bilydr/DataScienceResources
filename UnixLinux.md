@@ -9,6 +9,11 @@
 - [curl vs wget](http://daniel.haxx.se/docs/curl-vs-wget.html)
 - [Grymoire Unix tutorials](http://www.grymoire.com/Unix/index.html)
 
+### emacs
+
+- Mastering Emacs (Mickey Petersen) - [reading guide](https://www.masteringemacs.org/reading-guide), [article index](https://www.masteringemacs.org/all-articles)
+- [Org Mode](http://orgmode.org) - [guide](http://orgmode.org/guide), [manual](http://orgmode.org/org.html), [tutorials](http://orgmode.org/worg/org-tutorials/)
+
 ### awk
 
 #### Tutorials
