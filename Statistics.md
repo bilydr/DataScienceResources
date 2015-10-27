@@ -11,3 +11,8 @@
 - [Simply Statistics](http://simplystatistics.org/)
 - [Andrew Gelman's blog](http://andrewgelman.com/)
 - *[Elements of Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/)*
+- *[An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)*
+
+### Math
+
+- [Paul's online calculus notes](http://tutorial.math.lamar.edu/Classes/CalcI/CalcI.aspx)

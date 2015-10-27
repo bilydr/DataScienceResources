@@ -12,7 +12,7 @@
 ### emacs
 
 - Mastering Emacs (Mickey Petersen) - [reading guide](https://www.masteringemacs.org/reading-guide), [article index](https://www.masteringemacs.org/all-articles)
-- [Org Mode](http://orgmode.org) - [guide](http://orgmode.org/guide), [manual](http://orgmode.org/org.html), [tutorials](http://orgmode.org/worg/org-tutorials/)
+- [Org Mode](http://orgmode.org) - [guide](http://orgmode.org/guide), [manual](http://orgmode.org/org.html), [tutorials](http://orgmode.org/worg/org-tutorials/), [Worg](http://orgmode.org/worg/index.html)
 
 ### awk
 
@@ -25,3 +25,4 @@
 - [The Geek Stuff](http://www.thegeekstuff.com/2010/01/awk-introduction-tutorial-7-awk-print-examples/)
 - [Vector Site](http://www.vectorsite.net/tsawk.html)
 - [Awk in 20 mins](http://ferd.ca/awk-in-20-minutes.html)
+- [vi cheat sheet](http://www.lagmonster.org/docs/vi.html)

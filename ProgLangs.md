@@ -14,10 +14,22 @@
 - [The Python Tutorial](https://docs.python.org/2/tutorial/) (python.org)
 - [Dive into Python](http://www.diveintopython.net/)
 
-### Lisps
+### Clojure
+
+- [Incanter](http://data-sorcery.org/) - a Clojure-based, R-like statistical computing and graphics environment for the JVM.
+
+### Ruby
+
+- [Rubular](http://www.rubular.com/) - a Ruby-based regular expression editor.
+
+### Lisp
 
 - [Learn Lisp the Hard Way](http://learnlispthehardway.org/book/)
 - [Practical Common Lisp](http://www.gigamonkeys.com/book/)
+
+### Misc
+
+- [Learn You Some Erlang for Great Good](http://learnyousomeerlang.com/content)
 
 ### Cheat Sheets
 

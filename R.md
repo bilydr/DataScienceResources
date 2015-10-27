@@ -32,6 +32,7 @@
 - [R Packages](http://r-pkgs.had.co.nz/)
 - [R style guide](http://adv-r.had.co.nz/Style.html)
 - [@hadleywickham](http://twitter.com/hadleywickham)
+- [reddit AMA](https://www.reddit.com/r/dataisbeautiful/comments/3mp9r7/im_hadley_wickham_chief_scientist_at_rstudio_and/) (Sep 28 2015)
 
 ## Packages
 
