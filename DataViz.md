@@ -4,3 +4,4 @@
 
 - [Information is Beautiful](http://www.informationisbeautiful.net/) - distilling the world's data, information and knowledge into beautiful, interesting and, above all, useful visualizations, infographics and diagrams.
 - [The Guardian / data](http://www.theguardian.com/data)
+- [Flowing Data](http://flowingdata.com/) (Nathan Yau) - explores how statisticians, designers, data scientists, and others use analysis, visualization, and exploration to understand data and ourselves.

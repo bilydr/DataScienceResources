@@ -27,7 +27,11 @@
 - [Learn Lisp the Hard Way](http://learnlispthehardway.org/book/)
 - [Practical Common Lisp](http://www.gigamonkeys.com/book/)
 
-### Misc
+### Scheme
+
+- *[The Scheme Programming Language](http://www.scheme.com/tspl4/)* - R. Kent Dybvig
+
+### Other
 
 - [Learn You Some Erlang for Great Good](http://learnyousomeerlang.com/content)
 

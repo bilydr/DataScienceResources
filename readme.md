@@ -24,3 +24,23 @@
 
 - [list of data science blog](https://github.com/jhwhite/datasceinceblogs)
 - [Kaggle](http://www.kaggle.com/)
+
+### Data Sources
+
+- [Open Data / Stack Exchange](http://opendata.stackexchange.com/)
+- [Baseball Databank](http://www.baseball-databank.org/) - dedicated to creating and maintaining a comprehensive record of all baseball statistical data in a form that makes them useful for researchers and product developers.
+
+### Blogs
+
+- [Win-Vector](http://www.win-vector.com/blog/)
+- [Simon Jackman](http://jackman.stanford.edu/blog/)
+- [Randy Zwitch](http://randyzwitch.com/)
+- [Data School](http://www.dataschool.io/) 
+- [Data * Science + R](http://things-about-r.tumblr.com/) - Exploring the world of data with R, Tableau and other nice stuff
+- [DataJujitsu](http://www.datajujitsu.co.uk/index.html) - Data, Stats & Code
+- [Revolutions](http://blog.revolutionanalytics.com/)
+- [Yihui Xie](http://yihui.name/en/) - Statistics, R, Graphics and Fun
+
+### People
+
+- [Jeroen Ooms](http://jeroenooms.github.io/)
