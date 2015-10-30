@@ -8,6 +8,7 @@
 - [Learn X in Y Minutes](http://learnxinyminutes)
 - [The Setup](http://usesthis.com) - What do people use to get stuff done?
 - [Structure and Interpretation of Computer Programs](http://mitpress.mit.edu/sicp/full-text/book/book-Z-H-4.html)
+- [How To Become a Hacker](http://www.catb.org/~esr/faqs/hacker-howto.html) - Eric S. Raymond
 
 ### [Python](http://python.org)
 

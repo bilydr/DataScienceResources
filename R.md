@@ -4,6 +4,7 @@
 
 ---
 
+- [CRAN](https://cran.rstudio.com/)
 - [R Bloggers](http://r-bloggers.com/)
 - [Stack Overflow / tagged / R](http://stackoverflow.com/questions/tagged/r)
 - [Nabble / R](http://r.789695.n4.nabble.com/)
@@ -63,3 +64,7 @@
 ## People
 
 - [Duncan Temple Lang](http://anson.ucdavis.edu/~duncan/)
+
+## Interesting Stack Overflow questions
+
+[data.table vs dplyr](http://stackoverflow.com/questions/21435339/data-table-vs-dplyr-can-one-do-something-well-the-other-cant-or-does-poorly)
