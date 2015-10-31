@@ -24,6 +24,7 @@
 
 - [list of data science blog](https://github.com/jhwhite/datasceinceblogs)
 - [Kaggle](http://www.kaggle.com/)
+- [How to share data with a statistician](https://github.com/jtleek/datasharing) - Jeff Leek
 
 ### Data Sources
 

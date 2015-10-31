@@ -56,6 +56,9 @@
 
 - [Subsetting](http://rpubs.com/daspringate/subsetting)
 - [Vectorisation Tricks](http://rpubs.com/daspringate/vectorisation)
+- [Impatient R](http://www.burns-stat.com/documents/tutorials/impatient-r/) - Burns-Stat
+- [Statistics with R](http://zoonek2.free.fr/UNIX/48_R/all.html) - "notes I took while discovering and using the statistical environment R." By Vincent Zoonekynd
+- [R Tutorial Series](http://rtutorialseries.blogspot.com/) - John Quick
 
 ## Cool Case Studies
 
