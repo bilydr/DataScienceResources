@@ -1,6 +1,6 @@
 # Data Science Resources
 
-[Data Science - General](#data-scicence---general) | [R](#R) | [Unix / Linux](#unix---linux) | [Programming Languages](#programming-languages) | [Statistics](#statistics) | [Data Visualization](#data-visualization) | [Databases](#databases)
+[Data Science - General](#data-scicence---general) | [R](#r) | [Unix / Linux](#unix--linux) | [Programming Languages](#programming-languages) | [Statistics](#statistics) | [Data Visualization](#data-visualization) | [Databases](#databases)
 
 ---
 
@@ -58,7 +58,7 @@
 
 ---
 
-[Data Science - General](#data-scicence---general) | [R](#R) | [Unix / Linux](#unix---linux) | [Programming Languages](#programming-languages) | [Statistics](#statistics) | [Data Visualization](#data-visualization) | [Databases](#databases)
+[Data Science - General](#data-scicence---general) | [R](#r) | [Unix / Linux](#unix--linux) | [Programming Languages](#programming-languages) | [Statistics](#statistics) | [Data Visualization](#data-visualization) | [Databases](#databases)
 
 ---
 
@@ -134,7 +134,7 @@
 
 ---
 
-[Data Science - General](#data-scicence---general) | [R](#R) | [Unix / Linux](#unix---linux) | [Programming Languages](#programming-languages) | [Statistics](#statistics) | [Data Visualization](#data-visualization) | [Databases](#databases)
+[Data Science - General](#data-scicence---general) | [R](#r) | [Unix / Linux](#unix--linux) | [Programming Languages](#programming-languages) | [Statistics](#statistics) | [Data Visualization](#data-visualization) | [Databases](#databases)
 
 ---
 
@@ -167,7 +167,7 @@
 
 ---
 
-[Data Science - General](#data-scicence---general) | [R](#R) | [Unix / Linux](#unix---linux) | [Programming Languages](#programming-languages) | [Statistics](#statistics) | [Data Visualization](#data-visualization) | [Databases](#databases)
+[Data Science - General](#data-scicence---general) | [R](#r) | [Unix / Linux](#unix--linux) | [Programming Languages](#programming-languages) | [Statistics](#statistics) | [Data Visualization](#data-visualization) | [Databases](#databases)
 
 ---
 
@@ -213,7 +213,7 @@
 
 ---
 
-[Data Science - General](#data-scicence---general) | [R](#R) | [Unix / Linux](#unix---linux) | [Programming Languages](#programming-languages) | [Statistics](#statistics) | [Data Visualization](#data-visualization) | [Databases](#databases)
+[Data Science - General](#data-scicence---general) | [R](#r) | [Unix / Linux](#unix--linux) | [Programming Languages](#programming-languages) | [Statistics](#statistics) | [Data Visualization](#data-visualization) | [Databases](#databases)
 
 ---
 
@@ -236,7 +236,7 @@
 
 ---
 
-[Data Science - General](#data-scicence---general) | [R](#R) | [Unix / Linux](#unix---linux) | [Programming Languages](#programming-languages) | [Statistics](#statistics) | [Data Visualization](#data-visualization) | [Databases](#databases)
+[Data Science - General](#data-scicence---general) | [R](#r) | [Unix / Linux](#unix--linux) | [Programming Languages](#programming-languages) | [Statistics](#statistics) | [Data Visualization](#data-visualization) | [Databases](#databases)
 
 ---
 
@@ -248,7 +248,7 @@
 
 ---
 
-[Data Science - General](#data-scicence---general) | [R](#R) | [Unix / Linux](#unix---linux) | [Programming Languages](#programming-languages) | [Statistics](#statistics) | [Data Visualization](#data-visualization) | [Databases](#databases)
+[Data Science - General](#data-scicence---general) | [R](#r) | [Unix / Linux](#unix--linux) | [Programming Languages](#programming-languages) | [Statistics](#statistics) | [Data Visualization](#data-visualization) | [Databases](#databases)
 
 ---
 
