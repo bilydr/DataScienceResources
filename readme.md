@@ -1,5 +1,9 @@
 # Data Science Resources
 
+[Data Science - General](#data-scicence---general) | [R](#R) | [Unix / Linux](#unix---linux) | [Programming Languages](#programming-languages) | [Statistics](#statistics) | [Data Visualization](#data-visualization) | [Databases](#databases)
+
+---
+
 ## Data Science - General
 
 ### Data Science Education
@@ -19,6 +23,10 @@
 - [Northwestern](http://sps.northwestern.edu/program-areas/Graduate/predictive-analytics/index.php)
 - [Why I left my Data Science Masters Program](https://www.linkedin.com/pulse/why-i-left-my-masters-program-charles-pensig-1) - blog by Charles Pensig
 - [Are you ready to apply to the Zipfian Academy?](https://docs.google.com/document/d/1GI3oVas8yswhqPk_8-VIANHR1uJ6R19HNhl7GiH9vq4/pub)
+
+### Companies
+
+- [InfoChimps](http://www.infochimps.com/)
 
 ### Other
 
@@ -47,6 +55,12 @@
 ### People
 
 - [Jeroen Ooms](http://jeroenooms.github.io/)
+
+---
+
+[Data Science - General](#data-scicence---general) | [R](#R) | [Unix / Linux](#unix---linux) | [Programming Languages](#programming-languages) | [Statistics](#statistics) | [Data Visualization](#data-visualization) | [Databases](#databases)
+
+---
 
 ## [R](http://www.r-project.org/)
 
@@ -98,7 +112,7 @@
 - [Moshe on Technology](http://technomosh.blogspot.com/)
 - [IronHolds - Adventures in Data](http://ironholds.org/blog/)
 
-#3# Tutorials
+### Tutorials
 
 - [Subsetting](http://rpubs.com/daspringate/subsetting)
 - [Vectorisation Tricks](http://rpubs.com/daspringate/vectorisation)
@@ -117,6 +131,12 @@
 ### Interesting Stack Overflow questions
 
 [data.table vs dplyr](http://stackoverflow.com/questions/21435339/data-table-vs-dplyr-can-one-do-something-well-the-other-cant-or-does-poorly)
+
+---
+
+[Data Science - General](#data-scicence---general) | [R](#R) | [Unix / Linux](#unix---linux) | [Programming Languages](#programming-languages) | [Statistics](#statistics) | [Data Visualization](#data-visualization) | [Databases](#databases)
+
+---
 
 ## Unix & Linux
 
@@ -144,6 +164,12 @@
 - [Vector Site](http://www.vectorsite.net/tsawk.html)
 - [Awk in 20 mins](http://ferd.ca/awk-in-20-minutes.html)
 - [vi cheat sheet](http://www.lagmonster.org/docs/vi.html)
+
+---
+
+[Data Science - General](#data-scicence---general) | [R](#R) | [Unix / Linux](#unix---linux) | [Programming Languages](#programming-languages) | [Statistics](#statistics) | [Data Visualization](#data-visualization) | [Databases](#databases)
+
+---
 
 ## Programming Languages
 
@@ -185,6 +211,12 @@
 
 - [Regular Expressions (Dave Child)](http://www.cheatography.com/davechild/cheat-sheets/regular-expressions/)
 
+---
+
+[Data Science - General](#data-scicence---general) | [R](#R) | [Unix / Linux](#unix---linux) | [Programming Languages](#programming-languages) | [Statistics](#statistics) | [Data Visualization](#data-visualization) | [Databases](#databases)
+
+---
+
 ## Statistics
 
 - [Statistics.com](http://www.statistics.com/)
@@ -202,17 +234,25 @@
 
 - [Paul's online calculus notes](http://tutorial.math.lamar.edu/Classes/CalcI/CalcI.aspx)
 
+---
+
+[Data Science - General](#data-scicence---general) | [R](#R) | [Unix / Linux](#unix---linux) | [Programming Languages](#programming-languages) | [Statistics](#statistics) | [Data Visualization](#data-visualization) | [Databases](#databases)
+
+---
+
 ## Data Visualization
 
 - [Information is Beautiful](http://www.informationisbeautiful.net/) - distilling the world's data, information and knowledge into beautiful, interesting and, above all, useful visualizations, infographics and diagrams.
 - [The Guardian / data](http://www.theguardian.com/data)
 - [Flowing Data](http://flowingdata.com/) (Nathan Yau) - explores how statisticians, designers, data scientists, and others use analysis, visualization, and exploration to understand data and ourselves.
 
+---
+
+[Data Science - General](#data-scicence---general) | [R](#R) | [Unix / Linux](#unix---linux) | [Programming Languages](#programming-languages) | [Statistics](#statistics) | [Data Visualization](#data-visualization) | [Databases](#databases)
+
+---
+
 ## Databases
 
 - [List of useful MySQL commands](http://www.pantz.org/software/mysql/mysqlcommands.html)  (pantz.org)
 - [MySQL and R](http://digitheadslabnotebook.blogspot.com/2011/08/mysql-and-r.html) (Digithead's Lab Notebook)
-
-## Companies
-
-- [InfoChimps](http://www.infochimps.com/)
