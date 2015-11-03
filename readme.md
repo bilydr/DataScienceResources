@@ -73,6 +73,7 @@
 - [RStudio packages](http://www.rstudio.com/products/rpackages/): [knitr](http://yihui.name/knitr/), [dplyr](https://github.com/hadley/dplyr), [devtools](http://www.rstudio.com/products/rpackages/devtools/)
 - [CRAN Task Views](https://cran.r-project.org/web/views/)
 - [ROpenSci](https://ropensci.org/)
+- [R-Forge](https://r-forge.r-project.org/)
 
 ### Resources
 
@@ -105,12 +106,22 @@
 
 ### Blogs
 
+- [R-Bloggers](http://www.r-bloggers.com/)
 - [Patrick Burns, Burns-Stat](http://www.burns-stat.com/)
 - [R Trader](http://thertrader.com/)
 - [Revolutions](http://blog.revolutionanalytics.com/) (David Smith) |                   [roundups](http://blog.revolutionanalytics.com/roundups/)
 - [r4stats](http://r4stats.com/) (Bob Muenchen)
 - [Moshe on Technology](http://technomosh.blogspot.com/)
 - [IronHolds - Adventures in Data](http://ironholds.org/blog/)
+- [Simply Stats](http://simplystatistics.org/)
+- [Digithead's Lab Notebook](http://digitheadslabnotebook.blogspot.com/)
+
+#### Finance
+
+- [Foss Trading](http://blog.fosstrading.com/)
+- [Intelligent Trading Tech](http://intelligenttradingtech.blogspot.com/)
+- [Timely Portfolio](http://timelyportfolio.blogspot.com/)
+- [Systematic Investor's Blog](http://systematicinvestor.github.io/)
 
 ### Tutorials
 
