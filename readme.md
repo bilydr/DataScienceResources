@@ -4,11 +4,15 @@
 
 ---
 
-## Data Science - General
+## General
+
+- [Kaggle](http://www.kaggle.com/) - data science competitions
+- [KDNuggets](http://www.kdnuggets.com/) - Data Mining, Analytics, Big Data, and Data Science
+- [Strata Conference](http://strataconf.com/) - "where big data, cutting-edge data science, and new business fundamentals intersect—and merge"
 
 ### Data Science Education
 
-- [JHU DSS](https://www.coursera.org/specializations/jhudatascience)
+- [Coursera/Johns Hopkins Data Science Specialization](https://www.coursera.org/specializations/jhudatascience)
     + [directory for community-generated content](http://datasciencespecialization.github.io/)
 - [DataCamp](https://www.datacamp.com/) - browser-based lessons on R and Data Science
 - [Open Data Science Masters](http://datasciencemasters.org/) - open-source curriculum for learning Data Science
@@ -30,11 +34,7 @@
 
 ### Other
 
-- [list of data science blog](https://github.com/jhwhite/datasceinceblogs)
-- [Kaggle](http://www.kaggle.com/)
 - [How to share data with a statistician](https://github.com/jtleek/datasharing) - Jeff Leek
-- [Strata Conference](http://strataconf.com/)
-- [OpenCPU](https://www.opencpu.org/)
 
 ### Data Sources & Repositories
 
@@ -43,6 +43,7 @@
 
 ### Blogs
 
+- [KDNuggets - list of data science blogs](http://www.kdnuggets.com/websites/blogs.html)
 - [Win-Vector](http://www.win-vector.com/blog/)
 - [Simon Jackman](http://jackman.stanford.edu/blog/)
 - [Randy Zwitch](http://randyzwitch.com/)
@@ -103,6 +104,7 @@
 ### Tools
 
 - [FastRWeb](http://www.rforge.net/FastRWeb/) - Fast Interactive Web Framework for Data Mining Using R
+- [OpenCPU](https://www.opencpu.org/) - "a system for embedded scientific computing and reproducible research. The OpenCPU server provides a reliable and interoperable HTTP API for data analysis based on R."
 
 ### Blogs
 
