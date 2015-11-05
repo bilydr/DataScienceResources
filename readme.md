@@ -52,6 +52,7 @@
 - [DataJujitsu](http://www.datajujitsu.co.uk/index.html) - Data, Stats & Code
 - [Revolutions](http://blog.revolutionanalytics.com/)
 - [Yihui Xie](http://yihui.name/en/) - Statistics, R, Graphics and Fun
+- [Variance Explained](http://varianceexplained.org)
 
 ### People
 
@@ -269,3 +270,14 @@
 
 - [List of useful MySQL commands](http://www.pantz.org/software/mysql/mysqlcommands.html)  (pantz.org)
 - [MySQL and R](http://digitheadslabnotebook.blogspot.com/2011/08/mysql-and-r.html) (Digithead's Lab Notebook)
+
+---
+
+## Uncategorized
+
+### Industry News
+
+- [Techmeme](http://techmeme.com)
+- [Slashdot](http://slashdot.org)
+- [TechCrunch](http://techcrunch.com)
+- [Engadget](http://engadget.com)
